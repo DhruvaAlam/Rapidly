@@ -1,0 +1,44 @@
+header {
+  	margin: 10px auto 20px auto;
+  	padding: 5x 0 0 0;
+  	width: 470px;
+  	/*background: #4099ff; */
+  	/*border-color: #1a73d9;*/
+
+  }
+  h3{
+  	text-align: center;
+  	color: #4099ff;
+  	font-family: 'Raleway', sans-serif;
+  	font-size: 1.75em;
+  	font-weight:normal;
+
+  }
+  textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    /*top: 50%;*/
+    /*allign=center;*/
+    background: #4099ff;
+    color:#fff;
+  	
+}
+
+textarea{
+  	float: down;
+
+}
+
+body{
+  height:250px;
+
+}
